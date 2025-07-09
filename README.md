@@ -9,7 +9,8 @@
 ---
 
 
-Hi there! 👋
+# Hi there 👋  
+I'm  
 
 - 🔭 Driven to master full-stack development and build intelligent AI-powered systems.  
 - 🌱 Persistently committed to continuous learning and building resilience.  
@@ -18,6 +19,7 @@ Hi there! 👋
 - ⚡ Passionate about turning ideas into code and making things happen.
 
 ---
+
 
 ## 🛠️ Tech Stack
 <p align="center">
