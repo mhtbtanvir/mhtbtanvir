@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhtbtanvir&show_icons=true&theme=radical" height="180"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtbtanvir&layout=compact&theme=radical" height="180"/>
 </p>
 
@@ -34,7 +34,7 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mhtbtanvir&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Commits%20This%20Year&query=%24.totalCommits&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Fmhtbtanvir.json" alt="Commits This Year" />
 </p>
 
 ---
