@@ -8,14 +8,14 @@
 
 ---
 
-# 👋 About Me
 
-Hi there! 👋  
--🔭 Driven to master full-stack development and build intelligent AI-powered systems.
--🌱 Persistently committed to continuous learning and building resilience.
--💬 Always up for meaningful conversations about technology, innovation, history, politics, or just about anything. 😄
--📫 Feel free to reach out anytime: mhtbtanvir@gmail.com
--⚡ Passionate about turning ideas into code and making things happen.
+Hi there! 👋
+
+- 🔭 Driven to master full-stack development and build intelligent AI-powered systems.  
+- 🌱 Persistently committed to continuous learning and building resilience.  
+- 💬 Always up for meaningful conversations about technology, innovation, history, politics, or just about anything. 😄  
+- 📫 Feel free to reach out anytime: [mhtbtanvir@gmail.com](mailto:mhtbtanvir@gmail.com)  
+- ⚡ Passionate about turning ideas into code and making things happen.
 
 ---
 
