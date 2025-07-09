@@ -6,6 +6,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tanvir%20Mahtab&fontSize=40&fontAlign=50&fontAlignY=40" alt="banner" />
 </p>
 
+---
+
+# 👋 About Me
+
+Hi there! 👋  
+-🔭 Driven to master full-stack development and build intelligent AI-powered systems.
+-🌱 Persistently committed to continuous learning and building resilience.
+-💬 Always up for meaningful conversations about technology, innovation, history, politics, or just about anything. 😄
+-📫 Feel free to reach out anytime: mhtbtanvir@gmail.com
+-⚡ Passionate about turning ideas into code and making things happen.
 
 ---
 
@@ -31,30 +41,18 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhtbtanvir&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
 ## 🌱 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhtbtanvir&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
----
-
-## 👀 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhtbtanvir&style=for-the-badge&color=brightgreen" alt="Visitor Count" />
-</p>
 
 ---
 
-## 💬 Quote of the Day
+## 💬 Favorite Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <em>"If you're going to try, go all the way. Otherwise, don't even start."</em><br/>
+  <strong>– Charles Bukowski, *Roll the Dice*</strong>
 </p>
 
 ---
