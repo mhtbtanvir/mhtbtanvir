@@ -12,7 +12,6 @@
 - 🌱 Persistently committed to continuous learning and building resilience.  
 - 💬 Always up for meaningful conversations about technology, innovation, history, politics, or just about anything. 😄  
 - 📫 Feel free to reach out anytime: [mhtbtanvir@gmail.com](mailto:mhtbtanvir@gmail.com)  
-- ⚡ Passionate about turning ideas into code and making things happen.
 
 ---
 
@@ -34,7 +33,8 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Commits%20This%20Year&query=%24.totalCommits&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Fmhtbtanvir.json" alt="Commits This Year" />
+
+  <img src="https://streak-stats.demolab.com?user=mhtbtanvir&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -51,13 +51,6 @@
 <p align="center">
   <em>"If you're going to try, go all the way. Otherwise, don't even start."</em><br/>
   <strong>– Charles Bukowski, *Roll the Dice*</strong>
-</p>
-
----
-
-## 😂 Random Dev Meme
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="512px" alt="Meme" />
 </p>
 
 ---
