@@ -6,18 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tanvir%20Mahtab&fontSize=40&fontAlign=50&fontAlignY=40" alt="banner" />
 </p>
 
----
-
-# 👋 About Me
-
-Hi there! 👋  
-I’m **Tanvir Mahtab**, a passionate **Full-Stack Developer** and **AI/ML enthusiast** from Bangladesh 🇧🇩.  
-
-- 🌱 Currently exploring **advanced backend systems** and **cloud-native technologies**.  
-- 🧠 Building **custom NLP models** and experimenting with Transformers.  
-- 💻 Love crafting **modern, scalable, and secure web applications**.  
-- 🎯 Goals: Contribute to open-source projects and work on impactful AI products.  
-- 📫 **Reach me at**: [mhtbtanvir@gmail.com](mailto:mhtbtanvir@gmail.com)  
 
 ---
 
